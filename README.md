@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vidasoltani
 - 👀 I’m interested in Machine learnig | AI | Deep Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on ML projects
 - 📫 How to reach me vi.soltani@gmail.com
 
 <!---
